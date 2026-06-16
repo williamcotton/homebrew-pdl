@@ -4,7 +4,7 @@
 class Pdl < Formula
   desc 'Pipeline Data Language'
   homepage 'https://github.com/williamcotton/pdl'
-  url 'https://github.com/williamcotton/pdl.git', tag: 'v0.43.5'
+  url 'https://github.com/williamcotton/pdl.git', tag: 'v0.61.0'
   license 'MIT'
   head 'https://github.com/williamcotton/pdl.git', branch: 'main'
 
