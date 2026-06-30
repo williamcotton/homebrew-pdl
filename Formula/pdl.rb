@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Algraf formula for Homebrew
+# PDL formula for Homebrew
 class Pdl < Formula
   desc 'Pipeline Data Language'
   homepage 'https://github.com/williamcotton/pdl'
